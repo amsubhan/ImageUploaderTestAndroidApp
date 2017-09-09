@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageUploading</string>
+    <string name="you_ordered">You\'ve ordered:\n%s</string>
+</resources>
